@@ -1,0 +1,6 @@
+@Article{KDM21frameintrp,
+  author       = "Briedis, Karlis and Djelouah, Abdelaziz and Meyer, Mark and McGonigal, Ian and Gross, Markus and Schroers, Christopher",
+  title        = "Neural Frame Interpolation for Rendered Content",
+  journal      = "ACM Transactions on Graphics (SIGGRAPH Asia Conference Proceedings)",
+  year         = "2021"
+}

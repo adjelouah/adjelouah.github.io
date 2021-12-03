@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an associate research scientist at [DisneyResearch\|Studios](https://studios.disneyresearch.com/) in Zürich and my research interests are in computer vision, computer graphics and machine learning. I did my PhD at [Technicolor R&I](http://www.technicolor.com/en/innovation/research-innovation/ri-laboratories) Rennes jointly with [Morpheo](http://morpheo.inrialpes.fr/) team at INRIA Grenoble. Before joining Disney, I was a postdoctoral researcher in the [GraphDeco](https://team.inria.fr/graphdeco/) group at INRIA Sophia-Antipolis.
+I am a research scientist at [DisneyResearch\|Studios](https://studios.disneyresearch.com/) in Zürich and my research interests are in computer vision, computer graphics and machine learning. I did my PhD at [Technicolor R&I](http://www.technicolor.com/en/innovation/research-innovation/ri-laboratories) Rennes jointly with [Morpheo](http://morpheo.inrialpes.fr/) team at INRIA Grenoble. Before joining Disney, I was a postdoctoral researcher in the [GraphDeco](https://team.inria.fr/graphdeco/) group at INRIA Sophia-Antipolis.
 
 Publications
 ------
