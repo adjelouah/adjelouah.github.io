@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/restoration-bmvc
 date: 2022-11-22
 venue: "BMVC"
-authors: "G. Meishvili, A. Djelouah, S. Hattori, C.Schroers"
+authors: "G. Meishvili, A. Djelouah, S. Hattori, C. Schroers"
 uri: https://studios.disneyresearch.com/2022/11/21/contrastive-learning-for-controllable-blind-video-restoration/
 arxiv: 
 bibtex: files/2022-restoration-bmvc.txt
