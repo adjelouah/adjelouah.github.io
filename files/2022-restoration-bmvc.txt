@@ -1,0 +1,7 @@
+
+@inproceedings{gmeishvili2022contrastive,
+  author={Meishvili, Givi and Djelouah, Abdelaziz and Hattori, Sally and Schroers, Christopher},
+  title={Contrastive Learning for Controllable Blind Video Restoration},
+  booktitle = {BMVC},
+  year = {2022}
+}
