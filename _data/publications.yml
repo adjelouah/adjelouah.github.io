@@ -10,13 +10,11 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Neural Frame Interpolation for Rendered Content"
+    authors: "K. Briedis, A. Djelouah, M. Meyer, I. McGonigal, M. Gross, C. Schroers"
+    conference_short: Siggraph Asia
+    conference: "ACM TOG (SIGGRAPH Asia Conference Proceedings), 2023"
+    project: https://studios.disneyresearch.com/2021/11/30/neural-frame-interpolation-for-rendered-content/
+    bibtex: ./assets/files/2021-frame-interpolation-cg.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2021/10/Neural-Frame-Interpolation-for-Rendered-Content.pdf
+    image: ./assets/img/2021_frame_intrp_cg.png

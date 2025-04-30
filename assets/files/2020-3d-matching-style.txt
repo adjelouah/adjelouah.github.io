@@ -1,0 +1,6 @@
+@inproceedings{Uzpak2020,
+  author={Uzpak, Ali and Djelouah, Abdelaziz and Schaub-Meyer, Simone},
+  title={Style Transfer for Keypoint Matching under Adverse Conditions},
+  booktitle = {3DV},
+  year = {2020}
+}

@@ -1,0 +1,7 @@
+@inproceedings{briedis2023kernel,
+  title={Kernel-Based Frame Interpolation for Spatio-Temporally Adaptive Rendering},
+  author={Briedis, Karlis Martins and Djelouah, Abdelaziz and Ortiz, Rapha{\"e}l and Meyer, Mark and Gross, Markus and Schroers, Christopher},
+  booktitle={ACM SIGGRAPH 2023 Conference Proceedings},
+  pages={1--11},
+  year={2023}
+}

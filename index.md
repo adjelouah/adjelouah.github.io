@@ -4,19 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a research scientist at [DisneyResearch\|Studios](https://studios.disneyresearch.com/) in Zürich and my research interests are in computer vision, computer graphics and machine learning. I did my PhD at [Technicolor R&I](https://www.technicolor.com/) Rennes jointly with [Morpheo](http://morpheo.inrialpes.fr/) team at INRIA Grenoble. Before joining Disney, I was a postdoctoral researcher in the [GraphDeco](https://team.inria.fr/graphdeco/) group at INRIA Sophia-Antipolis.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 

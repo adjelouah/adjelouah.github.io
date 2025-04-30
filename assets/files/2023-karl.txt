@@ -1,0 +1,7 @@
+@inproceedings{bernasconi2023kernel,
+  title={Kernel Aware Resampler},
+  author={Bernasconi, Michael and Djelouah, Abdelaziz and Salehi, Farnood and Gross, Markus and Schroers, Christopher},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22347--22355},
+  year={2023}
+}
