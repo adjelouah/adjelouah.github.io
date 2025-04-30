@@ -1,7 +1,0 @@
-
-@inproceedings{lhelminger2021,
-  author={Helminger, Leonhard and Azevedo, Roberto  and Djelouah, Abdelaziz and Gross, Markus and Schroers, Christopher},
-  title={Microdosing: Knowledge Distillation for GAN Based Compression},
-  booktitle = {BMVC},
-  year = {2021}
-}

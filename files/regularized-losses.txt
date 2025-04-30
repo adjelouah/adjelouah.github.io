@@ -1,6 +1,0 @@
-@inproceedings{MengTang2018b,
-  author={M. Tang and F. Perazzi and A. Djelouah and I. B. Ayed and C. Schroers and Y. Boykov},
-  title={On Regularized Losses for Weakly-supervised CNN Segmentation},
-  booktitle = {ECCV},
-  year = {2018}
-}

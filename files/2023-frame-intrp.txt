@@ -1,7 +1,0 @@
-@inproceedings{plack2023frame,
-  title={Frame Interpolation Transformer and Uncertainty Guidance},
-  author={Plack, Markus and Briedis, Karlis Martins and Djelouah, Abdelaziz and Hullin, Matthias B and Gross, Markus and Schroers, Christopher},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={9811--9821},
-  year={2023}
-}

@@ -1,6 +1,0 @@
-@inproceedings{bernasconi2020deinterlacing,
-  title={Deep Deinterlacing},
-  author={Bernasconi, Michael and Djelouah, Abdelaziz and Hattori, Sally and Schroers, Christopher},
-  booktitle= {SMPTE},
-  year={2020}
-}

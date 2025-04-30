@@ -1,7 +1,0 @@
-
-@inproceedings{Meyer2018,
-  author={S. Meyer and A. Djelouah and B. McWilliams and A. Sorkine-Hornung and M. Gross and C. Schroers},
-  title={PhaseNet for Video Frame Interpolation},
-  booktitle = {CVPR},
-  year = {2018}
-}
