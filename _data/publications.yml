@@ -1,20 +1,234 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Versatile vision foundation model for image and video colorization"
+    conference_short: Siggraph 
+    conference: "ACM SIGGRAPH Conference Proceedings, 2024"
+    authors: "V. Bozic, A. Djelouah, Y. Zhang, R. Timofte, M. Gross, C. Schroers"
+    page: https://studios.disneyresearch.com/2024/07/28/versatile-vision-foundation-model-for-image-and-video-colorization/
+    bibtex: ./assets/files/2024-VVFM-color.txt
+    pdf: https://assets.studios.disneyresearch.com/app/uploads/2024/07/Versatile-Vision-Foundation-Model-for-Image-and-Video-Colorization-Paper.pdf
+    image: ./assets/img/2024-VVFM-color.png
+
+  - title: "Kernel-Based Frame Interpolation for Spatio-Temporally Adaptive Rendering"
+    conference_short: Siggraph 
+    conference: "ACM SIGGRAPH Conference Proceedings, 2023"
+    authors: "K. Briedis, A. Djelouah, R. Ortiz, M. Meyer, M. Gross, C. Schroers"
+    page: https://studios.disneyresearch.com/2023/07/23/kernel-based-frame-interpolation-for-spatio-temporally-adaptive-rendering/
+    bibtex: ./assets/files/2023-frame-interpolation-cg.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2023/06/Kernel-Based-Frame-Interpolation-for-Spatio-Temporally.pdf
+    image: ./assets/img/2023_frame_intrp_cg.png
+
+  - title: "Kernel Aware Resampler"
+    conference_short: "CVPR"
+    conference: "CVPR 2023"
+    authors: "M. Bernasconi, A. Djelouah, F. Salehi, M. Gross, C. Schroers"
+    page: https://studios.disneyresearch.com/2023/06/04/kernel-aware-resampler/
+    bibtex: ./assets/files/2023-karl.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2023/05/Kernel-Aware-Resampler.pdf
+    image: ./assets/img/2023_karl.png
+
+  - title: "Frame Interpolation Transformer and Uncertainty Guidance"
+    conference_short: "CVPR"
+    conference: "CVPR 2023"
+    authors: "M. Plack, K. Briedis, A. Djelouah, M. Hullin, M. Gross, C. Schroers"
+    page: https://studios.disneyresearch.com/2023/06/04/frame-interpolation-transformer-and-uncertainty-guidance/
+    bibtex: ./assets/files/2023-frame-intrp.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2023/05/Frame-Interpolation-Transformer-and-Uncertainty-Guidance-1.pdf
+    image: ./assets/img/2023_frame_intrp.jpg
+
+  - title: "Training a Deep Remastering Model"
+    conference_short: Siggraph Talk
+    conference: "ACM SIGGRAPH Talks, 2022"
+    authors: "A. Djelouah, A. Wahlquist , S. Hattori, C. Schroers"
+    page: https://studios.disneyresearch.com/2022/07/25/training-a-deep-remastering-model/
+    bibtex: ./assets/files/2022-restoration-dh.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2022/07/Training-a-Deep-Remastering-Model-1.pdf
+    image: ./assets/img/2022_restoration-dh.png
+
+  - title: "Contrastive Learning for Controllable Blind Video Restoration"
+    conference_short: BMVC
+    conference: BMVC 2022
+    authors: "G. Meishvili, A. Djelouah, S. Hattori, C. Schroers"
+    page: https://studios.disneyresearch.com/2022/11/21/contrastive-learning-for-controllable-blind-video-restoration/
+    bibtex: ./assets/files/2022-restoration-bmvc.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2022/10/Contrastive-Learning-for-Controllable-Blind-Video-Restoration.pdf
+    image: ./assets/img/2022_restoration-bmvc.png
 
   - title: "Neural Frame Interpolation for Rendered Content"
     authors: "K. Briedis, A. Djelouah, M. Meyer, I. McGonigal, M. Gross, C. Schroers"
     conference_short: Siggraph Asia
-    conference: "ACM TOG (SIGGRAPH Asia Conference Proceedings), 2023"
-    project: https://studios.disneyresearch.com/2021/11/30/neural-frame-interpolation-for-rendered-content/
+    conference: "ACM TOG (SIGGRAPH Asia Conference Proceedings), 2021"
+    page:: https://studios.disneyresearch.com/2021/11/30/neural-frame-interpolation-for-rendered-content/
     bibtex: ./assets/files/2021-frame-interpolation-cg.txt
     pdf: https://studios.disneyresearch.com/app/uploads/2021/10/Neural-Frame-Interpolation-for-Rendered-Content.pdf
     image: ./assets/img/2021_frame_intrp_cg.png
+
+  - title: "Microdosing: Knowledge Distillation for GAN based Compression"
+    conference_short: BMVC
+    conference: BMVC 2021
+    authors: "L. Helminger, R. Azevedo, A. Djelouah, M. Gross, C. Schroers"
+    bibtex: ./assets/files/2021-kdistillation-comp.txt
+    pdf: https://www.bmvc2021-virtualconference.com/assets/papers/1244.pdf
+    image:  ./assets/img/2021_kdistillation_comp.png
+
+  - title: "Lossy Image Compression with Normalizing Flows"
+    conference_short: "ICLR Workshop"
+    conference: "ICLR 2021 Workshop"
+    authors: "L. Helminger, A. Djelouah, M. Gross, C. Schroers"
+    bibtex: ./assets/files/2020-imcodec-NF.txt
+    pdf: https://arxiv.org/pdf/2008.10486.pdf
+    image:  ./assets/img/imcodec_NF.png
+
+  - title: "Blind Image Restoration with Flow Based Priors"
+    conference_short: "CVPR Workshop"
+    conference: "CVPR 2021 Workshop"
+    authors: "L. Helminger, M. Bernasconi, A. Djelouah, M. Gross, C. Schroers"
+    bibtex: ./assets/files/2020-blind_restoration_NF.txt
+    pdf: https://arxiv.org/pdf/2009.04583.pdf
+    image: ./assets/img/blind_restoration_NF.png
+
+  - title: "Style Transfer for Keypoint Matching under Adverse Conditions"
+    conference_short: "3DV"
+    conference: "3DV 2020"
+    authors: "A. Uzpak, A. Djelouah, S. Schaub-Meyer"
+    uri: 
+    arxiv: 
+    bibtex: ./assets/files/2020-3d-matching-style.txt
+    pdf: 
+    image: ./assets/img/localization-style.png
+
+  - title: "Deep Deinterlacing"
+    conference_short: "SMPTE"
+    conference: "SMPTE 2020"
+    authors: "A. Bernasconi, A. Djelouah, S. Hattori, C. Schroers"
+    bibtex: ./assets/files/2020-deinterlacing.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2020/11/Deep-Deinterlacing.pdf
+    image: ./assets/img/deinterlacing.png
+    page: https://studios.disneyresearch.com/2020/11/10/deep-deinterlacing/
+
+  - title: "Blind Image Super Resolution with Spatially Variant Degradations"
+    conference_short: Siggraph Asia
+    conference: "ACM TOG (SIGGRAPH Asia Conference Proceedings), 2019"
+    authors: "V. Cornillère, A. Djelouah, W. Yifan, O. Sorkine-Hornung, C. Schroers"
+    bibtex: ./assets/files/blindsr.txt
+    pdf: https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2019/10/25055710/Blind-image-super-resolution-with-spatially-variant-degradations.pdf 
+    image: ./assets/img/blindsr_siga19.png
+    page: https://igl.ethz.ch/projects/variational-blind-sr/
+
+  - title: "Neural Inter-Frame Compression for Video Coding"
+    authors: "A. Djelouah, J. Campos, S. Schaub-Meyer, C. Schroers"
+    conference_short: "ICCV"
+    conference: "ICCV 2019"
+    bibtex: ./assets/files/vidcodec.txt
+    pdf: https://s3.amazonaws.com/disney-research-data/wp-content/uploads/2019/10/25081309/Neural-Inter-Frame-Compression-for-Video-Coding-1.pdf
+    image: ./assets/img/vidcodec_iccv19.png
+
+  - title: "Content Adaptive Optimization for Neural Image Compression"
+    conference_short: "CVPR Workshop"
+    conference: "CVPR 2019 Workshop"
+    authors: "J. Campos, S. Meierhans, A. Djelouah, C. Schroers"
+    bibtex: ./assets/files/adaptive_img_comp.txt
+    pdf: https://arxiv.org/pdf/1906.01223.pdf
+    image: ./assets/img/adaptive_comp.png
+
+  - title: "On Regularized Losses for Weakly-supervised CNN Segmentation"
+    conference_short: ECCV
+    conference: ECCV 2018
+    authors: "M. Tang, F. Perazzi, A. Djelouah, I. Ben Ayed, C. Schroers, Y. Boykov"
+    bibtex: ./assets/files/regularized-losses.txt
+    pdf: https://arxiv.org/pdf/1803.09569.pdf
+    image: ./assets/img/rloss.jpg
+    code: https://github.com/meng-tang/rloss
+  
+  - title: "Deep Video Color Propagation"
+    conference_short: BMVC
+    conference: BMVC 2018
+    authors: "S. Meyer, V. Cornillère, A. Djelouah, C. Schroers, M. Gross"
+    bibtex: ./assets/files/video_color_prop.txt
+    pdf: https://arxiv.org/pdf/1808.03232v1.pdf
+    image: ./assets/img/video_color_prop.jpg
+
+  - title: "Normalized Cut Loss for Weakly-supervised CNN Segmentation"
+    conference_short: CVPR
+    conference: CVPR 2018
+    authors: "M. Tang, A. Djelouah, F. Perazzi, Y. Boykov, C. Schroers"
+    bibtex: ./assets/files/ncloss.txt
+    pdf: https://arxiv.org/pdf/1804.01346.pdf
+    image: ./assets/img/ncloss.png
+    code: https://github.com/meng-tang/rloss
+
+  - title: "PhaseNet for Video Frame Interpolation"
+    conference_short: CVPR
+    conference: CVPR 2018
+    authors: "S. Meyer, A. Djelouah, B. McWilliams, A. Sorkine-Hornung, M. Gross, C. Schroers"
+    bibtex: ./assets/files/phasenet.txt
+    pdf: https://arxiv.org/pdf/1804.00884.pdf
+    image: ./assets/img/phasenet.png
+
+  - title: "Thin Structures in Image Based Rendering"
+    conference_short: EGSR
+    conference: EGSR 2018
+    authors: "T. Thonat, A. Djelouah, F. Durand, G. Drettakis"
+    bibtex: ./assets/files/fences_ibr.txt
+    pdf: http://www-sop.inria.fr/reves/Basilic/2018/TDDD18/main_thin_5.pdf
+    page: http://www-sop.inria.fr/reves/Basilic/2018/TDDD18/
+    image: ./assets/img/fences.png
+
+  - title: "Disentangled Dynamic Representations from Unordered Data"
+    conference_short: AABI
+    conference: AABI 2018
+    authors: "L. Helminger, A. Djelouah, M. Gross, W. Romann"
+    bibtex: ./assets/files/disentangled_representation.txt
+    pdf: https://arxiv.org/pdf/1812.03962.pdf
+    image: ./assets/img/disentangled.png
+
+  - title: "Cotemporal Multi-View Video Segmentation"
+    conference_short: 3DV
+    conference: 3DV 2016
+    authors: "A. Djelouah, J-S Franco, E. Boyer, P. Pérez, G. Drettakis"
+    bibtex: ./assets/files/umvseg.txt
+    pdf: https://hal.inria.fr/hal-01367430/file/final_umvseg_3dv.pdf
+    page: http://www-sop.inria.fr/reves/Basilic/2016/DFBPD16/
+    image: ./assets/img/umvseg.jpg
+
+  - title: "Automatic 3D Car Model Alignment for Mixed Image-Based Rendering"
+    conference_short: 3DV
+    conference: 3DV 2016
+    authors: "R. Ortiz-Cayon, A. Djelouah, F. Massa, M. Aubry, G. Drettakis"
+    page: http://www-sop.inria.fr/reves/Basilic/2016/ODMAD16
+    bibtex: ./assets/files/alignment_ibr.txt
+    pdf: http://www-sop.inria.fr/reves/Basilic/2016/ODMAD16/final_mixedIBR.pdf
+    image: ./assets/img/car_ibr.jpg
+
+  - title: "A Bayesian Approach for Selective Image-Based Rendering using Superpixels"
+    conference_short: 3DV
+    conference: 3DV 2015
+    authors: "R. Ortiz-Cayon, A. Djelouah, G. Drettakis"
+    bibtex: ./assets/files/sibr.txt
+    page: http://www-sop.inria.fr/reves/Basilic/2015/ODD15/
+    pdf: https://hal.inria.fr/hal-01207907/file/Ortiz-Cayon_3DV2015.pdf
+    image: ./assets/img/sibr.jpg
+
+  - title: "Sparse Multi-View Consistency for Object Segmentation"
+    conference_short: TPAMI
+    conference: IEEE TPAMI 2015
+    authors: "A. Djelouah, J-S. Franco, E. Boyer, F. Le Clerc, P. Pérez"
+    bibtex: ./assets/files/mvseg_pami.txt
+    pdf: https://hal.inria.fr/hal-01115557/file/paper_V3.pdf
+    image: ./assets/img/pami_mvseg.png
+
+  - title: "Multi-View Object Segmentation in Space and Time"
+    conference_short: "ICCV"
+    conference: "ICCV 2013"
+    authors: "A. Djelouah, J-S Franco, E. Boyer, F. Le Clerc, P. Pérez"
+    bibtex: ./assets/files/video_mvseg.txt
+    pdf: http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Djelouah_Multi-view_Object_Segmentation_2013_ICCV_paper.pdf
+    image: ./assets/img/video_mvseg.png
+
+  - title: "N-Tuple Color Segmentation for Multi-View Silhouette Extraction"
+    conference_short: "ECCV"
+    conference: "ECCV 2012"
+    authors: "A. Djelouah, J-S. Franco, E. Boyer, F. Le Clerc, P. Pérez"
+    bibtex: ./assets/files/sparse_mvseg.txt
+    pdf: https://hal.inria.fr/hal-00735718/file/Final_N-tuple_Multi-View_Silhouette_Extraction-1.pdf
+    image: ./assets/img/mvseg.png

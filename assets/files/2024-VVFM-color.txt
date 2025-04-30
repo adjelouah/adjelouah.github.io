@@ -1,0 +1,7 @@
+@inproceedings{bozic2024versatile,
+  title={Versatile vision foundation model for image and video colorization},
+  author={Bozic, Vukasin and Djelouah, Abdelaziz and Zhang, Yang and Timofte, Radu and Gross, Markus and Schroers, Christopher},
+  booktitle={ACM SIGGRAPH 2024 Conference Papers},
+  pages={1--11},
+  year={2024}
+}
