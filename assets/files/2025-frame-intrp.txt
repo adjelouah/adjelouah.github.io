@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3721238.3730598,
+author = {Briedis, Karlis Martins and Djelouah, Abdelaziz and Ortiz, Rapha\"{e}l and Gross, Markus and Schroers, Christopher},
+title = {Controllable Tracking-Based Video Frame Interpolation},
+year = {2025},
+isbn = {9798400715402},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3721238.3730598},
+doi = {10.1145/3721238.3730598},
+abstract = {Temporal video frame interpolation has been an active area of research in recent years, with a primary focus on motion estimation, compensation, and synthesis of the final frame. While recent methods have shown good quality results in many cases, they can still fail in challenging scenarios. Moreover, they typically produce fixed outputs with no means of control, further limiting their application in film production pipelines. In this work, we address the less explored problem of user-assisted frame interpolation to improve quality and enable control over the appearance and motion of interpolated frames. To this end, we introduce a tracking-based video frame interpolation method that utilizes sparse point tracks, first estimated and interpolated with existing point tracking methods and then optionally refined by the user. Additionally, we propose a mechanism for controlling the levels of hallucination in interpolated frames through inference-time model weight adaptation, allowing a continuous trade-off between hallucination and blurriness.Even without any user input, our model achieves state-of-the-art results in challenging test cases. By using points tracked over the whole sequence, we can use better motion trajectory interpolation methods, such as cubic splines, to more accurately represent the true motion and achieve significant improvements in results. Our experiments demonstrate that refining tracks and their trajectories through user interactions significantly improves the quality of interpolated frames.},
+booktitle = {Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
+articleno = {155},
+numpages = {11},
+keywords = {Video Frame Interpolation, Point Tracking, User Control},
+location = {
+},
+series = {SIGGRAPH Conference Papers '25}
+}

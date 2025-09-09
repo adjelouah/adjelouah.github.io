@@ -1,5 +1,23 @@
 main:
 
+  - title: "Controllable Tracking-Based Video Frame Interpolation"
+    conference_short: Siggraph 
+    conference: "ACM SIGGRAPH Conference Proceedings, 2025"
+    authors: "K. Briedis, A. Djelouah, R. Ortiz, M. Meyer, M. Gross, C. Schroers"
+    page: https://studios.disneyresearch.com/2025/07/17/controllable-tracking-based-video-frame-interpolation/
+    bibtex: ./assets/files/2025-frame-intrp.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2025/07/Controllable-Tracking-Based-Video-Frame-Interpolation-Paper.pdf
+    image: ./assets/img/2025-frame-intrp.png
+
+  - title: "Unboxed: Geometrically and Temporally Consistent Video Outpainting"
+    conference_short: CVPR 
+    conference: "CVPR 2025"
+    authors: "Z. Yu, M. Megaro-Boldini, R. W. Sumner, A. Djelouah"
+    page: https://studios.disneyresearch.com/2025/05/23/unboxed-geometrically-and-temporally-consistent-video-outpainting/
+    bibtex: ./assets/files/2025-unboxed.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2025/05/Unboxed-Geometrically-and-Temporally-Consistent-Video-Outpainting_Paper.pdf
+    image: ./assets/img/2025-unboxed.png
+
   - title: "Versatile vision foundation model for image and video colorization"
     conference_short: Siggraph 
     conference: "ACM SIGGRAPH Conference Proceedings, 2024"

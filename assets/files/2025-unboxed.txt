@@ -1,0 +1,7 @@
+@inproceedings{yu2025unboxed,
+  title={Unboxed: Geometrically and Temporally Consistent Video Outpainting},
+  author={Yu, Zhongrui and Megaro-Boldini, Martina and Sumner, Robert W and Djelouah, Abdelaziz},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={7309--7319},
+  year={2025}
+}
