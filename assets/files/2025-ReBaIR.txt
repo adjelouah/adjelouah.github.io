@@ -1,0 +1,7 @@
+@inproceedings{bernasconi2025rebair,
+  title={ReBaIR: Reference-Based Image Restoration},
+  author={Bernasconi, Michael and Djelouah, Abdelaziz and Zhang, Yang and Gross, Markus and Schroers, Christopher},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5489--5498},
+  year={2025}
+}

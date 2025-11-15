@@ -1,0 +1,7 @@
+@inproceedings{ruta2025leveraging,
+  title={Leveraging Diffusion Models for Stylization using Multiple Style Images},
+  author={Ruta, Dan and Djelouah, Abdelaziz and Ortiz, Raphael and Schroers, Christopher},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={406--415},
+  year={2025}
+}

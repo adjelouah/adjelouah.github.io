@@ -1,0 +1,7 @@
+@inproceedings{bernasconi2025ldip,
+  title={LDIP: Long Distance Information Propagation for Video Super-Resolution},
+  author={Bernasconi, Michael and Djelouah, Abdelaziz and Zhang, Yang and Gross, Markus and Schroers, Christopher},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={11558--11567},
+  year={2025}
+}

@@ -1,5 +1,32 @@
 main:
 
+  - title: "Leveraging Diffusion Models for Stylization using Multiple Style Images"
+    conference_short: ICCV Workshop
+    conference: "ICCV 2025 Workshop"
+    authors: "D. Ruta, A. Djelouah, R. Ortiz, C. Schroers"
+    page: https://studios.disneyresearch.com/2025/10/07/leveraging-diffusion-models-for-stylization-using-multiple-style-images/
+    bibtex: ./assets/files/2025-sd_nst.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2025/10/Leveraging-Diffusion-Models-for-Stylization-using-Multiple-Style-Images-paper.pdf
+    image: ./assets/img/2025_sd_nst.png
+    
+  - title: "LDIP: Long Distance Information Propagation for Video Super-Resolution"
+    conference_short: ICCV
+    conference: "ICCV 2025"
+    authors: "M. Bernasconi, A. Djelouah, Y. Zhang, M. Gross, C. Schroers"
+    page: https://studios.disneyresearch.com/2025/10/16/ldip-long-distance-information-propagation-for-video-super-resolution/
+    bibtex: ./assets/files/2025-LDIP.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2025/10/LDIP-Long-Distance-Information-Propagation-for-Video-Super-Resolution-Paper.pdf
+    image: ./assets/img/2025_LDIP.jpg
+
+  - title: "ReBaIR: Reference-Based Image Restoration"
+    conference_short: ICCV Workshop
+    conference: "ICCV 2025 Workshop"
+    authors: "M. Bernasconi, A. Djelouah, Y. Zhang, M. Gross, C. Schroers"
+    page: https://studios.disneyresearch.com/2025/09/29/rebair-reference-based-image-restoration/
+    bibtex: ./assets/files/2025-ReBaIR.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2025/09/ReBaIR-Reference-Based-Image-Restoration-Paper.pdf
+    image: ./assets/img/2025_ReBaIR.png
+
   - title: "Controllable Tracking-Based Video Frame Interpolation"
     conference_short: Siggraph 
     conference: "ACM SIGGRAPH Conference Proceedings, 2025"
