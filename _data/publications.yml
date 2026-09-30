@@ -1,5 +1,14 @@
 main:
 
+  - title: "2D Gaussian Splatting for Bézier Spline Line Art Vectorization"
+    conference_short: Siggraph
+    conference: "ACM SIGGRAPH Conference Proceedings, 2026"
+    authors: "T. Chen, C. Fernandez, M. Oskarsson, C. Tappan, O. Sorkine-Hornung, M. Gross, C. Schroers, A. Djelouah"
+    page: https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/
+    bibtex: ./assets/files/2026-gs-vectorization.txt
+    pdf: https://studios.disneyresearch.com/app/uploads/2026/07/2D-Gaussian-Splatting-for-Be%CC%81zier-Spline-Line-Art-Vectorization-Paper.pdf
+    image: ./assets/img/2026_gs_vectorization.png
+
   - title: "Leveraging Diffusion Models for Stylization using Multiple Style Images"
     conference_short: ICCV Workshop
     conference: "ICCV 2025 Workshop"

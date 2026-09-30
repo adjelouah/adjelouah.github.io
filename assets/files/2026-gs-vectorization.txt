@@ -1,0 +1,14 @@
+@inproceedings{10.1145/3799902.3811211,
+author = {Chen, Tianhao and Fernandez, Clara and Oskarsson, Marteinn and Tappan, Chuck and Sorkine-Hornung, Olga and Gross, Markus and Schroers, Christopher and Djelouah, Abdelaziz},
+title = {2D Gaussian Splatting for B\'{e}zier Spline Line Art Vectorization},
+year = {2026},
+isbn = {9798400725543},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3799902.3811211},
+doi = {10.1145/3799902.3811211},
+booktitle = {Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},
+numpages = {11},
+location = {Los Angeles, CA, USA},
+series = {SIGGRAPH Conference Papers '26}
+}
